@@ -3,7 +3,7 @@ import Image from "next/image"
 import Link from "next/link"
 import { Button } from "../ui/button"
 import MobileNav from "./MobileNav"
-import NavItems from "./NavItems"
+import NavItems from "./Navitems"
 
 
 const Header = () => {
